@@ -1,17 +1,17 @@
-<h1 align="center">Hello 👋, I'm Bars, aka p.penguin</h1>
+<h1 align="center">Hello 👋, I'm Bars, aka P. Penguin</h1>
 <h3 align="center">A passionate hobbyist coder with a focus on C# and a penchant for game-related, game-hacking, and general programming projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifbars&label=Profile%20views&color=0e75b6&style=flat" alt="ifbars" /> </p>
 
 - 📝 I’m currently working on [CS2 External ESP](https://github.com/IMXNOOBX/cs2-external-esp)
 
-- 🌱 I’m currently learning **C++, Game Hacking**
+- 🌱 I’m currently learning **C++, Game Hacking, Unity**
 
 - 🤝 I’m looking to collaborate on **any game related projects**
 
 - 🤝 I’m looking for help with **a weed growing simulation game made with unity**
 
-- 💬 Ask me about **C# .NET, ProTVCreator**
+- 💬 Ask me about **C# .NET, ProTVCreator, Unity**
 
 - 📫 How to reach me **tristens5465@gmail.com**
 
