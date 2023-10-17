@@ -13,10 +13,6 @@
 
 - 💬 Ask me about **C# .NET, ProTVCreator, Unity**
 
-- 📫 Business purposes only: **tristens5465@gmail.com**
-
-- 📩 For general inquires connect with me on discord
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://youtube.com/@corbisyt?si=bjr5nsse8b-hhyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@corbisyt?si=bjr5nsse8b-hhyer" height="30" width="40" /></a>
