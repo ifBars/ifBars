@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **C# .NET, ProTVCreator, Unity**
 
-- 📫 How to reach me **tristens5465@gmail.com**
+- 📫 Business purposes only: **tristens5465@gmail.com**
+
+- 📩 For general inquires conenct with me on discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
