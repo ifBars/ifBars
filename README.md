@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking to collaborate on **any game related projects**
 
-- 🤝 I’m looking for help with **a weed growing simulation game made with unity**
-
 - 💬 Ask me about **C# .NET, ProTVCreator, Unity**
 
 <h3 align="left">Connect with me:</h3>
