@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifbars&label=Profile%20views&color=0e75b6&style=flat" alt="ifbars" /> </p>
 
-- 📝 I’m currently working on [CS2 External ESP](https://github.com/IMXNOOBX/cs2-external-esp)
+- 📝 I’m currently working on **Advancing My Coding Skills**
 
 - 🌱 I’m currently learning **C++, Game Hacking, Unity**
 
