@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifBars&show_icons=true&locale=en&layout=compact" alt="ifbars" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifbars&show_icons=true&locale=en" alt="ifbars" /></p>
+[![ifBars's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifBars)](https://github.com/ifBars/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifbars&" alt="ifbars" /></p>
