@@ -5,7 +5,7 @@
 
 - 📝 I’m currently working on **Advancing My Coding Skills**
 
-- 🌱 I’m currently learning **C++, Game Hacking, Unity**
+- 🌱 I’m currently learning **C++, Python**
 
 - 🤝 I’m looking to collaborate on **any game related projects**
 
