@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to collaborate on **any game related projects**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **ProTVConvertor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
