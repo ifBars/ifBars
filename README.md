@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Tristen, aka ifBars</h1>
-<h3 align="center">A passionate hobbyist coder with a focus on C# and a penchant for game-related, game-modding, and general programming projects</h3>
+<h3 align="center">A passionate hobbyist coder with a focus on C# & Python, game-related, game-modding, and AI projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifbars&label=Profile%20views&color=0e75b6&style=flat" alt="ifbars" /> </p>
 
@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Tools I Use:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="visual studio" width="40" height="40"/> </a> <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" alt="visual studio" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="visual studio" width="40" height="40"/> </a> <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" alt="visual studio" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifBars&show_icons=true&locale=en&layout=compact" alt="ifBars" /></p>
 
