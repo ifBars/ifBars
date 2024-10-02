@@ -24,6 +24,6 @@
 
 ![ifBars's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifBars)
 
-![ifBars's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ifBars)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=ifBars" alt="ifBars" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifBars&" alt="ifBars" /></p>
+![ifBars's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=ifBars)
