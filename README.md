@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Tristen, aka ifBars</h1>
+<h1 align="center">Hello 👋, I'm ifBars</h1>
 <h3 align="center">A passionate hobbyist coder with a focus on C# & Python, game-related, and AI projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifbars&label=Profile%20views&color=0e75b6&style=flat" alt="ifbars" /> </p>
