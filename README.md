@@ -1,15 +1,15 @@
 <h1 align="center">ifBars</h1>
-<h3 align="center">A hobbyist coder with a focus on C# & Python, game-related, and AI projects</h3>
+<h3 align="center">A hobbyist coder with a focus on C#, game-related, and AI projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifbars&label=Profile%20views&color=0e75b6&style=flat" alt="ifbars" /> </p>
 
 - 📝 I’m currently working on **Advancing My Coding Skills**
 
-- 🌱 I’m currently learning **HTML, CSS, JS, & Python**
+- 🌱 I’m currently learning **HTML, CSS, TS, & C#**
 
 - 🤝 I’m looking to collaborate on **any game related projects**
 
-- 💬 Ask me about **Coding**
+- 💬 Ask me about **Schedule 1 Modding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
