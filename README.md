@@ -10,10 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=ifbars&label=Profile%20views&color=0e75b6&style=flat" alt="ifbars" />
 </p>
 
-### What I do
-- Build C# tools and game mods (Unity, IL2CPP/Mono)
-- Ship small utilities that make dev workflows faster
-- Explore security tooling for C# & Unity Modding
+### What I am currently up to
+- Building C# tools and game mods (Unity, IL2CPP/Mono)
+- Shipping utilities that make dev workflows faster
+- Exploring security tooling for C# & Unity Modding
 
 ### Featured Projects
 - [S1API](https://github.com/ifBars/S1API)
