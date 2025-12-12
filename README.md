@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://ifbars.github.io">ifbars.github.io</a> •
-  <a href="https://github.com/ifBars?tab=repositories">repos</a> •
+  <a href="https://github.com/ifBars?tab=repositories">repos</a>
 </p>
 
 <p align="center">
@@ -15,10 +15,7 @@
 - Shipping utilities that make dev workflows faster
 - Exploring security tooling for C# & Unity Modding
 
-### Featured Projects
+### What I am actively working on
 - [S1API](https://github.com/ifBars/S1API)
 - [MLVScan](https://github.com/ifBars/MLVScan)
 - [Fluxel](https://github.com/ifBars/Fluxel)
-
-### Ask me about
-- Schedule 1 modding, MelonLoader, Unity mod security
