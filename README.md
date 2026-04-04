@@ -13,7 +13,7 @@
 ### What I am currently up to
 - Building C# tools and Unity game mods
 - Shipping utilities that make developer workflows faster
-- Exploring security tooling for C# & Unity Modding
+- Developing security tooling to detect malicious behavior in real-world Unity mods
 
 ### What I am actively working on
 - [S1API](https://github.com/ifBars/S1API)
